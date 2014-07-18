@@ -1,7 +1,7 @@
 
 name 'test'
-maintainer 'CHANGE ME'
-homepage 'CHANGEME.com'
+maintainer 'wk'
+homepage ''
 
 install_path    '/opt/test'
 build_version   Omnibus::BuildVersion.semver
