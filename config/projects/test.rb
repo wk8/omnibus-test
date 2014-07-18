@@ -1,7 +1,7 @@
 
 name 'test'
 maintainer 'wk'
-homepage ''
+homepage 'getchef.com'
 
 install_path    '/opt/test'
 build_version   Omnibus::BuildVersion.semver
@@ -11,7 +11,7 @@ build_iteration 1
 dependency 'preparation'
 
 # test dependencies/components
-# dependency 'somedep'
+# dependency 'git'
 
 # version manifest file
 dependency 'version-manifest'
