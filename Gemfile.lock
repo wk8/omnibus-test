@@ -14,8 +14,8 @@ GIT
 
 GIT
   remote: git://github.com/opscode/omnibus-software.git
-  revision: ff5743a9e3aafe8c4e5f6ccb6f53b1bd2b8058d7
-  branch: jr/libossp-uuid
+  revision: 2904036a399b7e7b037068d4b47468e20408c3ee
+  branch: master
   specs:
     omnibus-software (0.0.1)
 
